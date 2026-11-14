@@ -1,0 +1,36 @@
+{
+  "name": "轻卡日记 · 减脂记录",
+  "short_name": "轻卡日记",
+  "description": "只做三件事的减脂记录工具：看体重趋势、找低卡食物、记下每天吃了什么。数据只存在本机，可离线使用。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#FAF6EF",
+  "theme_color": "#FAF6EF",
+  "categories": ["health", "lifestyle", "food"],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
